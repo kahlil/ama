@@ -2,9 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I am a JavaScript developer at 1&1, I run KarlsruheJS, I make music in various projects and participated in the [JSConf EU 2015 Opening Performance](https://www.youtube.com/watch?v=lJ1kY-CSpBk). Feel free to ask my anything here, this way anyone can read the answer!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything*. Personal questions. Money. Work. Life. Code. Music. Whatever.
 
 -
 
