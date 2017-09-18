@@ -7,8 +7,6 @@ Feel free to ask my anything here, this way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Music. Whatever.
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
